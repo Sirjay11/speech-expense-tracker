@@ -29,7 +29,7 @@ const CustomizedSnackbar = ({ open, setOpen }) => {
           elevation={6}
           variant="filled"
         >
-          Transaction successfully created.
+          Transaction successfully created!
         </MuiAlert>
       </Snackbar>
     </div>
