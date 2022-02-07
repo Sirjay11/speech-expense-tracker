@@ -110,6 +110,7 @@ const NewTransactionForm = () => {
         createTransaction();
       }
     }
+    //eslint-disable-next-line
   }, [segment]);
 
   const selectedCategories =
